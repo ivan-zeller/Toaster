@@ -3,6 +3,7 @@
   "version": "2.1.5",
   "description": "CUSTOM Toast message component for React Native",
   "main": "./lib/index.js",
+  "license": "MIT",
   "types": "./lib/index.d.ts",
   "files": [
     "/lib"
